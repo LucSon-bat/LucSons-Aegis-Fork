@@ -1,8 +1,0 @@
-version=54;
-name="Aegis BACKUP";
-author="LucSon";
-category="EdSubcat_Tools";
-requiredAddons[]=
-{
-	"A3_Modules_F_Curator"
-};
